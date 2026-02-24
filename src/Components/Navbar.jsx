@@ -10,7 +10,6 @@ function Navbar() {
       <div className="flex gap-6 items-center">
         <Link to="/">Home</Link>
         <Link to="/products">Products</Link>
-        <Link to="/cart">Cart</Link>
         <Link to="/contact">Contact</Link>
       </div>
     </nav>
